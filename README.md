@@ -17,10 +17,16 @@ Flutter 學習筆記
 - [API 相關介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/BJ4FiYt9c)
 - [Stream 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/r1xjr4Wsq)
 - [BLoC 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/H1xyJ8bs9)
-- [與原生溝通(Kotlin)子母畫面(PIP)](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/By3Maq0iq)
-- [與原生溝通(Kotlin)通知](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/BydF39aiq)
+
+發布
+---
+- [改變APP名稱及Icon](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/B1vXhZ62c)
 - [發布安卓APP](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/rkLud_659)
 
+原生
+---
+- [與原生平台進行溝通](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/HyIK4E6oq)
+- [Kotlin子母畫面PIP](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/By3Maq0iq)
 
 好用package
 ---
