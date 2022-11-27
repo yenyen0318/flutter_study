@@ -17,6 +17,8 @@ Flutter 學習筆記
 - [API 相關介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/BJ4FiYt9c)
 - [Stream 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/r1xjr4Wsq)
 - [BLoC 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/H1xyJ8bs9)
+- [無障礙（報讀）](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/B1dEkYRWs)
+- [Firebase](https://hackmd.io/XjNkMUaFQwq0hn9067OQ6g?view)
 
 發布
 ---
@@ -36,6 +38,7 @@ Flutter 學習筆記
 - [url_launcher/shared_preferences 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/HyNo81Q95)
 - [json_annotation/json_serializable/build_runner 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/ByPIRXd95)
 - [awesome_notifications 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/ryqVjAsj5)
+- [socket_io_client 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/B1sjvq9-j)
 
 
 常用工具
