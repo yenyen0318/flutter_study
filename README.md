@@ -15,6 +15,11 @@ Flutter 學習筆記
 - [Stream 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/r1xjr4Wsq)
 - [無障礙（報讀）](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/B1dEkYRWs)
 
+Debug 技能
+---
+- [效能調教](https://hackmd.io/Fw76rAYDSMWOw6lm3U50nA?view)
+- [疑難炸症](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/GlAjkj0WSc2jFHFL13nWMw)
+
 狀態管理
 ---
 - [Navigator 介紹](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/rk1ci8lc5)
@@ -64,10 +69,7 @@ Firebase
 
 常用工具
 ---
-- [常用網站](/@BzWzq-x9Rb2G4WG03gcyKg/dRMWRK_bQYKhmbWhQ2Awjw)
-- [VSCode DevTool](/@BzWzq-x9Rb2G4WG03gcyKg/-jdN0ER3TPSVOjOMXMAf1A)
-- [搭配VSCode 各種常用快捷鍵](/@BzWzq-x9Rb2G4WG03gcyKg/T3ubq519T6-8Pk-N6xLHsA)
-- [疑難炸症](/@BzWzq-x9Rb2G4WG03gcyKg/GlAjkj0WSc2jFHFL13nWMw)
-
+- [常用網站](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/dRMWRK_bQYKhmbWhQ2Awjw)
+- [搭配VSCode 各種常用快捷鍵](https://hackmd.io/@BzWzq-x9Rb2G4WG03gcyKg/T3ubq519T6-8Pk-N6xLHsA)
 
 ###### tags: `flutter`
